@@ -18,7 +18,7 @@ int main()
 return 0;
 }
 
-ALGORITHM: 
+/*ALGORITHM: 
  1. Start
  2. Declare variables i, next,first , second
  3. Initialize the variables, i=0, second=1, and first =0
@@ -34,7 +34,7 @@ ALGORITHM:
  
  LEARNINGS : 
 
-Learnt what a fibnocii series is and how to arrange them.
+Learnt what a fibnocii series is and how to arrange them.*/
 
 
  

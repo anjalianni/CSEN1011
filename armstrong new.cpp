@@ -32,4 +32,4 @@ Step 6: IF result==r1
 Step 7: Stop
 
 LEARNINGS:
-Learnt what a armstrong number is and the process
+Learnt what a armstrong number is and the process*/

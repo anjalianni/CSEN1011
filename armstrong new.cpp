@@ -16,3 +16,20 @@ int main()
 	else printf("%d is not an armstrong num",num);
 	return0;
 }
+
+/* ALGORITHM
+Step 1: Start
+Step 2: Declare num,a, r1 , result
+Step 3: Read num from User
+Step 4: Initialize Variable result=0 and a=num
+Step 5: Repeat Until num>=0
+     5.1 sum=sum + cube of last digit i.e [(num%10)*(num%10)*(num%10)]
+     5.2 num=num/10
+Step 6: IF result==r1
+        Print "Armstrong Number"
+        ELSE 
+        Print "Not Armstrong Number"
+Step 7: Stop
+
+LEARNINGS:
+Learnt what a armstrong number is and the process

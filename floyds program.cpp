@@ -15,4 +15,21 @@ int main()
 }
 }
 
-/*
+/* ALGORITHM:
+1.Start
+2.Declare and initialize required variables for controlling loop, inputting number of rows and printing numbers.
+3.Enter the number of rows to be printed.
+4.Print the number in standard format utilizing the application of    loop as follows
+         do for x=1 to n
+
+         do for y=1 to n
+
+         print number
+
+         increase the number ans y by 1
+
+          go to next line
+
+5.Print triangle
+LEARNINGS:
+learnt c program of floyds triangle using for loop.*/

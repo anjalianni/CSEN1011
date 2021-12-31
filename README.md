@@ -6,3 +6,5 @@
 [collatzseries.c](https://github.com/anjalianni/CSEN1011/blob/9f7bd72c73e3b996caf639423a6747d30234b1b8/collatzseries.c)<br/>
 [simplecalculator.c](https://github.com/anjalianni/CSEN1011/blob/9f7bd72c73e3b996caf639423a6747d30234b1b8/simplecalculator.c)<br/>
 [casechange.c](https://github.com/anjalianni/CSEN1011/blob/9f7bd72c73e3b996caf639423a6747d30234b1b8/casechange.c)<br/>
+
+

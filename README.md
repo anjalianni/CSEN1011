@@ -14,3 +14,7 @@
 [collatz sequence.rap](https://github.com/anjalianni/CSEN1011/blob/5e16a5baf30b0a3caaa7400c99e0df1cc285caa7/collatz%20sequence.rap)<br/>
 [simple calculator.rap](https://github.com/anjalianni/CSEN1011/blob/5e16a5baf30b0a3caaa7400c99e0df1cc285caa7/simple%20calculator.rap)<br/>
 [case change.rap](https://github.com/anjalianni/CSEN1011/blob/5e16a5baf30b0a3caaa7400c99e0df1cc285caa7/casechange.rap)<br/>
+
+module1 
+[addingofnumbers]
+(

@@ -22,4 +22,4 @@ module1
 [helloworld.c](https://github.com/anjalianni/CSEN1011/blob/71f5f940db14762fdf3d3cedcaa7f91e52a90914/helloworld.c)<br/>
 [marks.c](https://github.com/anjalianni/CSEN1011/blob/7bae74cb606f335da8441be3faaf344c625fc9cd/marks.c)<br/>
 [simplecompound.c](https://github.com/anjalianni/CSEN1011/blob/6df4d5976f65391c30b7e4851b7826592a780973/simplecompond.c)<br/>
-
+[simpleinterest.c](https://github.com/anjalianni/CSEN1011/blob/acab67cb7fabcc5f4586df417691d9ba5daeebcb/simpleinterest.c)<br/>

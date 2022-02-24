@@ -18,4 +18,6 @@
 module1 
 [addingofnumbers]
 (https://github.com/anjalianni/CSEN1011/blob/5e73ec745fa59ec7fc901f1dcc5b46979b2361a8/addingofnumbers.c)<br/>
+[ascii.c]
+(https://github.com/anjalianni/CSEN1011/blob/662c16fd3eb88f469a0ef50f4c8ce3dc98b0926c/ascii.c)<br/>
 [

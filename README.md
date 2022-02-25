@@ -28,4 +28,5 @@ module1
 SEM
 [probability algorithm](https://github.com/anjalianni/CSEN1011/blob/87233ea7b9f355c6175f6bbe9a31bf435e5d7025/probability%20algorithm)<br/>
 [permutations.rap](https://github.com/anjalianni/CSEN1011/blob/efdf51e2c55ae4751ae897373cfff187c465a0ee/permutation.rap)</br>
-[chessboard algorithm](
+[chessboard algorithm](https://github.com/anjalianni/CSEN1011/blob/1c2773acdf6e52a258360223c6166b7d18e33a1a/chessboard%20algorithm)<br/>
+[chessboard.rap](

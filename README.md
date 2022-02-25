@@ -24,3 +24,6 @@ module1
 [simplecompound.c](https://github.com/anjalianni/CSEN1011/blob/6df4d5976f65391c30b7e4851b7826592a780973/simplecompond.c)<br/>
 [simpleinterest.c](https://github.com/anjalianni/CSEN1011/blob/acab67cb7fabcc5f4586df417691d9ba5daeebcb/simpleinterest.c)<br/>
 [swapping.c](https://github.com/anjalianni/CSEN1011/blob/9671295f0df11fe11947aa74c909a4e9d3c9b283/swapping.c)<br/>
+
+SEM
+[probability algorithm](

@@ -29,6 +29,7 @@ SEM
 
 [probability algorithm](https://github.com/anjalianni/CSEN1011/blob/87233ea7b9f355c6175f6bbe9a31bf435e5d7025/probability%20algorithm)<br/>
 [permutations.rap](https://github.com/anjalianni/CSEN1011/blob/efdf51e2c55ae4751ae897373cfff187c465a0ee/permutation.rap)</br>
+[customer algorithm](https://github.com/anjalianni/CSEN1011/blob/bbbe434616132c947b0d758b016e91fe1472b166/customer%20algorithm)<br/>
 [chessboard algorithm](https://github.com/anjalianni/CSEN1011/blob/1c2773acdf6e52a258360223c6166b7d18e33a1a/chessboard%20algorithm)<br/>
 [chessboard.rap](https://github.com/anjalianni/CSEN1011/blob/88ca65dea18a18680141382da09d17f686f01b3b/chessboard.rap)<br/>
 [shopbill.rap](https://github.com/anjalianni/CSEN1011/blob/7193b8ab2ea8dacc99009927d35779f9f2bd2f28/shopbill.rap)<br/>

@@ -26,4 +26,5 @@ module1
 [swapping.c](https://github.com/anjalianni/CSEN1011/blob/9671295f0df11fe11947aa74c909a4e9d3c9b283/swapping.c)<br/>
 
 SEM
-[probability algorithm](
+[probability algorithm](https://github.com/anjalianni/CSEN1011/blob/87233ea7b9f355c6175f6bbe9a31bf435e5d7025/probability%20algorithm)<br/>
+[permutations.rap](
